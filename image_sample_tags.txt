@@ -1,0 +1,6 @@
+category: invoice
+scanned: yes
+language: English
+priority: high
+type: receipt
+confidence: 94%
